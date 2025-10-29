@@ -6,8 +6,7 @@ Website ini dirancang dengan tampilan modern, animasi lembut, serta struktur yan
 ---
 
 ## 🌐 Demo Preview
-*(Tambahkan link jika sudah di-deploy ke Netlify/Vercel)*  
-🔗 [Live Demo](https://your-demo-link.netlify.app)
+🔗 [Live Demo](link)
 
 ---
 
